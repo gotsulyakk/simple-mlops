@@ -161,4 +161,6 @@ cython_debug/
 
 # ML model files
 1-training/notebooks/test-ner/
+1-training/notebooks/mlruns
 1-training/models/
+1-training/mlflow_data/
