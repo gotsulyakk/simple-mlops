@@ -4,10 +4,10 @@
 This folder contains code for training DistilBERT model for NER task on political speach data from [here](https://github.com/leslie-huang/UN-named-entity-recognition). Training code taken from [this](https://medium.com/@andrewmarmon/fine-tuned-named-entity-recognition-with-hugging-face-bert-d51d4cb3d7b5) article
 
 ## Content:
-[x] Notebook with training code
-[x] Notebook with trainig code + MLFlow experiment tracking integration
-[ ] Notebook with pushing to model registry after training 
-[ ] Training script made from notebook
+- [x] Notebook with training code
+- [x] Notebook with trainig code + MLFlow experiment tracking integration
+- [ ] Notebook with pushing to model registry after training 
+- [ ] Training script made from notebook
 
 ## Installation
 
