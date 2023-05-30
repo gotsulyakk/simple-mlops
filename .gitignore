@@ -159,8 +159,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# VSCode
+.vscode/
+
 # ML model files
 1-training/notebooks/test-ner/
 1-training/notebooks/mlruns
 1-training/models/
 1-training/mlflow_data/
+1-training/mlruns/
+mlflow.db
