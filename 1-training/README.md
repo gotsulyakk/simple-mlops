@@ -6,8 +6,8 @@ This folder contains code for training DistilBERT model for NER task on politica
 ## Content:
 - [x] Notebook with training code
 - [x] Notebook with trainig code + MLFlow experiment tracking integration
-- [ ] Notebook with pushing to model registry after training 
-- [ ] Training script made from notebook
+- [x] Notebook with pushing to model registry after training 
+- [x] Training script made from notebook
 
 ## Installation
 
